@@ -1,0 +1,22 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+p {
+    text-align: justify;
+    padding: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 25px;
+}
