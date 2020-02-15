@@ -112,10 +112,22 @@ body {
 
 .content p {
     margin-bottom: 20px;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .content .penulis a {
     text-decoration: none;
     color: green;
+}
+
+.footer {
+    padding: 10px;
+    background-color: #333333;
+}
+
+.footer .copy {
+    font-size: 12px;
+    color: #eaeaea;
+    text-align: center;
+    
 }
