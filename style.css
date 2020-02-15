@@ -95,3 +95,27 @@ body {
     background-position: 0 -180px;
     border-bottom: 5px solid green;
 }
+
+.content {
+    padding: 20px;
+}
+
+.content h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.content .penulis {
+    font-size: 11px;
+    margin-top: -5px;
+}
+
+.content p {
+    margin-bottom: 20px;
+    font-size: 13px;
+}
+
+.content .penulis a {
+    text-decoration: none;
+    color: green;
+}
